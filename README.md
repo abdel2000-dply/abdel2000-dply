@@ -1,4 +1,4 @@
-![Banner Image](banner.jpg)
+![Banner Image](banner.png)
 ### Hi there 👋
 
 I'm *Abdellah*, currently studying at ALX Africa's SE program 👨‍💻.\n
