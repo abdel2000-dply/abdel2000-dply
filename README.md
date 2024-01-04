@@ -1,26 +1,27 @@
+![Banner Image](images/banner.jpg)
 ### Hi there 👋
 
-I'm Abdel, currently studying at ALX Africa's SE program, passionate about [mention any specific interests or areas you're focusing on].
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+I'm *Abdellah*, currently studying at ALX Africa's SE program 👨‍💻.
 Feel free to explore my repositories and connect with me!
+
+## Passion Projects
+
+* [printf]: Implementation of the built-in printf function (standard library function present in stdio.h)
+ <!-- add more -->
+
+## Collaboration
+
+ I am currently seeking opportunities to collaborate on projects related to **IoT, AI, Automation, and Web technologies**. Please let me know if you have something in mind.
+
+## Fun Fact
+
+ * ❓ Wanna challenge the family champ to a game? Bring your A-game! (My siblings might offer moral support... or popcorn)
 
 ## Connect with Me
 
-*  Email: [abno870@gmail]
-*  LinkedIn: [Abdellah Abnoune](www.linkedin.com/in/abdellah-abnoune-646299180)
-*  Twitter: [@Abdel2272](https://twitter.com/Abdel2272)
+* LinkedIn: [Abdellah Abnoune](www.linkedin.com/in/abdellah-abnoune-646299180)
+* Twitter: [@Abdel2272](https://twitter.com/Abdel2272)
 
 ## Quote
 
-> "The best way to predict the future is to create it." - Abraham Lincoln
+> "The only real mistake is the one from which we learn nothing." - Henry Ford
