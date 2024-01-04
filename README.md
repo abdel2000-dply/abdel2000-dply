@@ -1,7 +1,7 @@
-![Banner Image](images/banner.jpg)
+![Banner Image](banner.jpg)
 ### Hi there 👋
 
-I'm *Abdellah*, currently studying at ALX Africa's SE program 👨‍💻.
+I'm *Abdellah*, currently studying at ALX Africa's SE program 👨‍💻.\n
 Feel free to explore my repositories and connect with me!
 
 ## Passion Projects
@@ -19,8 +19,9 @@ Feel free to explore my repositories and connect with me!
 
 ## Connect with Me
 
-* LinkedIn: [Abdellah Abnoune](www.linkedin.com/in/abdellah-abnoune-646299180)
-* Twitter: [@Abdel2272](https://twitter.com/Abdel2272)
+*  LinkedIn: [Abdellah Abnoune](www.linkedin.com/in/abdellah-abnoune-646299180)
+*  Twitter: [@Abdel2272](https://twitter.com/Abdel2272)
+
 
 ## Quote
 
