@@ -4,7 +4,7 @@
 I'm *Abdellah*, currently studying at ALX Africa's SE program 👨‍💻.
 Feel free to explore my repositories and connect with me!
 
-## Skills & Tools
+<!--## Skills & Tools
 
 * Python: ![Python](https://raw.githubusercontent.com/devicons/devicons/master/python.svg)
 * JavaScript: ![JavaScript](https://raw.githubusercontent.com/devicons/devicons/master/javascript.svg)
@@ -36,8 +36,7 @@ Feel free to explore my repositories and connect with me!
 * WordPress: [░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 55%]
 * Ubuntu: [░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 95%]
 * Canva: [░░░░░░░░░░░░░░
-
-
+-->
 ## Passion Projects
 
 * [**printf**]: Implementation of the built-in printf function (standard library function present in stdio.h)
