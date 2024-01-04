@@ -39,7 +39,7 @@ Feel free to explore my repositories and connect with me!
 -->
 ## Passion Projects
 
-* [**printf**]: Implementation of the built-in printf function (standard library function present in stdio.h)
+* **printf**: Implementation of the built-in printf function (standard library function present in stdio.h)
  <!-- add more -->
 
 ## Collaboration
