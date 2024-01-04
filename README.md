@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**abdel2000-dply/abdel2000-dply** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Abdel, currently studying at ALX Africa's SE program, passionate about [mention any specific interests or areas you're focusing on].
 
 Here are some ideas to get you started:
 
@@ -13,4 +12,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+Feel free to explore my repositories and connect with me!
+
+## Connect with Me
+
+*  Email: [abno870@gmail]
+*  LinkedIn: [Abdellah Abnoune](www.linkedin.com/in/abdellah-abnoune-646299180)
+*  Twitter: [@Abdel2272](https://twitter.com/Abdel2272)
+
+## Quote
+
+> "The best way to predict the future is to create it." - Abraham Lincoln
