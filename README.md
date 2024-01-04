@@ -1,4 +1,5 @@
 ![Banner Image](banner.png)
+<h1 style="animation: fade-in 2s;">Hey there!</h1>
 ### Hi there 👋
 
 I'm *Abdellah*, currently studying at ALX Africa's SE program 👨‍💻.\n
