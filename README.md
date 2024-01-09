@@ -3,9 +3,11 @@
 
 I'm *Abdellah*, currently studying at ALX Africa's SE program 👨‍💻.
 Feel free to explore my repositories and connect with me!
-[![committers.top badge](https://user-badge.committers.top/morocco_public/USERNAME.svg)](https://user-badge.committers.top/morocco_public/USERNAME)
+<img src="https://komarev.com/ghpvc/?username=abdel2000-dply&label=Profile%20views&color=0e75b6&style=flat" alt="abdel2000-dply" />
 
-<!--## Skills & Tools
+<!--
+[![committers.top badge](https://user-badge.committers.top/morocco_public/USERNAME.svg)](https://user-badge.committers.top/morocco_public/USERNAME)
+## Skills & Tools
 
 * Python: ![Python](https://raw.githubusercontent.com/devicons/devicons/master/python.svg)
 * JavaScript: ![JavaScript](https://raw.githubusercontent.com/devicons/devicons/master/javascript.svg)
