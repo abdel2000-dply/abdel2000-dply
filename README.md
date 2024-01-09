@@ -3,6 +3,7 @@
 
 I'm *Abdellah*, currently studying at ALX Africa's SE program 👨‍💻.
 Feel free to explore my repositories and connect with me!
+[![committers.top badge](https://user-badge.committers.top/morocco_public/USERNAME.svg)](https://user-badge.committers.top/morocco_public/USERNAME)
 
 <!--## Skills & Tools
 
