@@ -15,7 +15,7 @@ Feel free to explore my repositories and connect with me!
 
 ## Passion Projects
 
-* **printf**: Implementation of the built-in printf function (standard library function present in stdio.h)
+* [printf](https://github.com/abdel2000-dply/printf): Implementation of the built-in printf function (standard library function present in stdio.h)
  <!-- add more -->
 
 ## Collaboration
@@ -30,16 +30,9 @@ Feel free to explore my repositories and connect with me!
 
 *  LinkedIn: [Abdellah Abnoune](www.linkedin.com/in/abdellah-abnoune-646299180)
 *  Twitter: [@Abdel2272](https://twitter.com/Abdel2272)
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 <a href="https://hashnode.com/@codenexus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@codenexus" height="30" width="40" /></a>
 <a href="https://medium.com/@techwispers" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@techwispers" height="30" width="40" /></a>
-</p>
+
 
 ## Quote
 
