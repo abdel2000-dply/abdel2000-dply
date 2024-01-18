@@ -8,39 +8,11 @@ Feel free to explore my repositories and connect with me!
 
 <!--
 [![committers.top badge](https://user-badge.committers.top/morocco_public/USERNAME.svg)](https://user-badge.committers.top/morocco_public/USERNAME)
-## Skills & Tools
-
-* Python: ![Python](https://raw.githubusercontent.com/devicons/devicons/master/python.svg)
-* JavaScript: ![JavaScript](https://raw.githubusercontent.com/devicons/devicons/master/javascript.svg)
-* React: ![React](https://raw.githubusercontent.com/devicons/devicons/master/react.svg)
-* HTML: ![HTML5](https://raw.githubusercontent.com/devicons/devicons/master/html5.svg)
-* CSS: ![CSS3](https://raw.githubusercontent.com/devicons/devicons/master/css3.svg)
-* Git: ![Git](https://raw.githubusercontent.com/devicons/devicons/master/git.svg)
-* Bash: ![Bash](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg)
-* C: ![C](https://raw.githubusercontent.com/devicons/devicons/master/c.svg)
-* Arduino: ![Arduino](https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg)
-* MySQL: ![MySQL](https://raw.githubusercontent.com/devicons/devicons/master/mysql.svg)
-* XAMPP: ![XAMPP](https://seeklogo.com/images/X/xampp-logo-4D65464546.png)
-* WordPress: ![WordPress](https://raw.githubusercontent.com/devicons/devicons/master/wordpress.svg)
-* Ubuntu: ![Ubuntu](https://raw.githubusercontent.com/devicons/devicons/master/ubuntu.svg)
-* Canva: ![Canva](https://www.vectorlogo.zone/logos/canva/canva-icon.svg)
-* IoT: ![Internet of Things](https://www.vectorlogo.zone/logos/internet_of_things/internet_of_things-icon.svg)
-
-## Proficiency
-
-* Python: [░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 85%]
-* JavaScript: [░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 70%]
-* React: [░░░░░░░░░░░░░░░░░░░░░░░░░░ 50%]
-* HTML/CSS: [░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 85%]
-* Git: [░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 95%]
-* Bash: [░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 60%]
-* C: [░░░░░░░░░░░░░░░░░░░░░░░ 30%]
-* Arduino: [░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 65%]
-* MySQL: [░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 80%]
-* WordPress: [░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 55%]
-* Ubuntu: [░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 95%]
-* Canva: [░░░░░░░░░░░░░░
 -->
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
 ## Passion Projects
 
 * **printf**: Implementation of the built-in printf function (standard library function present in stdio.h)
