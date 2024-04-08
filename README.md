@@ -15,7 +15,7 @@ Feel free to explore my repositories and connect with me!
 
 ## Passion Projects
 
-* [printf](https://github.com/abdel2000-dply/printf): Implementation of the built-in printf function (standard library function present in stdio.h)
+* [BookUnluck](https://github.com/abdel2000-dply/BookUnluck): Web application that empowers users to discover, search, review, and explore books across various categories.
  <!-- add more -->
 
 ## Collaboration
