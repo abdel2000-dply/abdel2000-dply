@@ -4,6 +4,9 @@
 I'm *Abdellah*, currently studying at ALX Africa's SE program 👨‍💻.
 Feel free to explore my repositories and connect with me!
 
+- working on:
+  [IoT Device Control and Data Management API](https://github.com/abdel2000-dply/iot-control-system) 🔥
+
 <img src="https://komarev.com/ghpvc/?username=abdel2000-dply&label=Profile%20views&color=0e75b6&style=flat" alt="abdel2000-dply" />
 
 <!--
