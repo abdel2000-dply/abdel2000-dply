@@ -1,37 +1,6 @@
-<style>
-  .typewriter h1 {
-    overflow: hidden; /* Ensures the content is not visible initially */
-    border-right: .15em solid orange; /* Adds a blinking cursor effect */
-    white-space: nowrap; /* Prevents the text from wrapping */
-    margin: 0 auto; /* Centers the text */
-    letter-spacing: .15em; /* Adds some space between the characters */
-    animation: typing 3.5s steps(40, end), blink-caret .75s step-end infinite;
-  }
+![Banner Image](banner.png)
 
-  @keyframes typing {
-    from { width: 0 }
-    to { width: 100% }
-  }
-
-  @keyframes blink-caret {
-    from, to { border-color: transparent }
-    50% { border-color: orange; }
-  }
-
-  .banner-img {
-    height: 200px; /* Customize the height as needed */
-    width: 100%;
-    object-fit: cover; /* Ensures the image covers the area */
-  }
-</style>
-
-<div class="typewriter">
-  <h1>Hi there, I'm Abdellah</h1>
-</div>
-
-<img src="banner.png" alt="Banner Image" class="banner-img"/>
-
-## About Me
+# Hi there ...
 
 I'm **Abdellah**, currently studying at ALX Africa's SE program 👨‍💻. Welcome to my GitHub profile! Feel free to explore my repositories and connect with me!
 
@@ -110,11 +79,17 @@ I am currently seeking opportunities to collaborate on projects related to **IoT
 
 ## GitHub Stats
 
-![Profile Views](https://komarev.com/ghpvc/?username=abdel2000-dply&label=Profile%20views&color=0e75b6&style=flat)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abdel2000-dply&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
 
-[![Abdellah's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdel2000-dply&show_icons=true&theme=radical)](https://github.com/abdel2000-dply)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdel2000-dply&show_icons=true&theme=radical" alt="Abdellah's GitHub Stats"/>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdel2000-dply&layout=compact)](https://github.com/abdel2000-dply)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdel2000-dply&layout=compact" alt="Top Languages"/>
+</p>
 
 ## Quote
 
