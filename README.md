@@ -1,6 +1,8 @@
+# Hi there ...
+
 ![Banner Image](banner.png)
 
-# Hi there ...
+## About Me
 
 I'm **Abdellah**, currently studying at ALX Africa's SE program 👨‍💻. Welcome to my GitHub profile! Feel free to explore my repositories and connect with me!
 
