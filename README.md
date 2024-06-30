@@ -66,9 +66,6 @@ I'm **Abdellah**, currently studying at ALX Africa's SE program 👨‍💻. Wel
 
 I am currently seeking opportunities to collaborate on projects related to **IoT, AI, Automation, and Web technologies**. Please let me know if you have something in mind.
 
-## Fun Fact
-
-* ❓ Wanna challenge the family champ to a game? Bring your A-game! (My siblings might offer moral support... or popcorn)
 
 ## Connect with Me
 
