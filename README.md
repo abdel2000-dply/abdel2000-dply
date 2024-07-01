@@ -83,6 +83,12 @@ I am currently seeking opportunities to collaborate on projects related to **IoT
 </p>
 
 <p align="center">
+  <a href="https://user-badge.committers.top/morocco_public/USERNAME">
+    <img src="https://user-badge.committers.top/morocco_public/USERNAME.svg" alt="committers.top badge"/>
+  </a>
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abdel2000-dply&show_icons=true&theme=radical" alt="Abdellah's GitHub Stats"/>
 </p>
 
