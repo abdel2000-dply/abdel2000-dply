@@ -1,4 +1,5 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=250&color=088AF7DE&random=false&width=435&lines=Hi+there+.+.+.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=600&size=24&pause=100&color=088AF7DE&random=false&width=435&lines=Hi+there+.+.+.)](https://git.io/typing-svg)
 
 ![Banner Image](banner.png)
 
