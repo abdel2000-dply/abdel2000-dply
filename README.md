@@ -6,6 +6,16 @@
 
 I'm **Abdellah**, currently studying at ALX Africa's SE program 👨‍💻. Welcome to my GitHub profile! Feel free to explore my repositories and connect with me!
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abdel2000-dply&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
+
+<p align="center">
+  <a href="https://user-badge.committers.top/morocco_public/abdel2000-dply">
+    <img src="https://user-badge.committers.top/morocco_public/abdel2000-dply.svg" alt="committers.top badge"/>
+  </a>
+</p>
+
 ## Current Projects
 
 - **[IoT Device Control and Data Management API](https://github.com/abdel2000-dply/iot-control-system) 🔥**
@@ -78,15 +88,6 @@ I am currently seeking opportunities to collaborate on projects related to **IoT
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdel2000-dply&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
-
-<p align="center">
-  <a href="https://user-badge.committers.top/morocco_public/abdel2000-dply">
-    <img src="https://user-badge.committers.top/morocco_public/abdel2000-dply.svg" alt="committers.top badge"/>
-  </a>
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abdel2000-dply&show_icons=true&theme=radical" alt="Abdellah's GitHub Stats"/>
