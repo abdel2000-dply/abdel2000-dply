@@ -4,7 +4,7 @@
 
 ## About Me
 
-I'm **Abdellah**, currently studying at ALX Africa's SE program 👨‍💻. Welcome to my GitHub profile! Feel free to explore my repositories and connect with me!
+I'm **Abdellah**, a junior Software engineer 👨‍💻 (ALX SE Graduate - Cohort 16). Welcome to my GitHub profile! Feel free to explore my repositories and connect with me!
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abdel2000-dply&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
