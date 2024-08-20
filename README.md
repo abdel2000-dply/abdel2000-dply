@@ -94,13 +94,11 @@ I am currently seeking opportunities to collaborate on projects related to **IoT
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdel2000-dply&layout=compact" alt="Top Languages"/>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=abdel2000-dply&theme=radical&border_radius=5&exclude_days=Sun%2CSat&card_width=400&card_height=200&hide_total_contributions=true" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=abdel2000-dply&theme=transparent&border_radius=5&exclude_days=Sun%2CSat&card_width=400&card_height=200&hide_total_contributions=true" alt="GitHub Streak" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdel2000-dply&layout=compact" alt="Top Languages"/>
 </p>
 
 ## Quote
