@@ -18,7 +18,7 @@ I'm **Abdellah**, a junior Software engineer 👨‍💻 (ALX alumni - Cohort 16
 
 ## Current Projects
 
-- **[IoT Device Control and Data Management API](https://github.com/abdel2000-dply/iot-control-system) 🔥**
+- **[IoT Device Control and Data Management API](https://github.com/abdel2000-dply/iot-control-system) 🔥** A robust API designed to manage IoT devices, reflecting my passion for technology that adapts to user needs with fluidity.
 
 ## Languages and Tools
 
