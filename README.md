@@ -20,7 +20,7 @@ Check out my [portfolio website](https://your-portfolio-link.com) to learn more 
 
 ## Current Projects
 
-- **[IoT Device Control and Data Management API](https://github.com/abdel2000-dply/iot-control-system) 🔥** A robust API designed to manage IoT devices, reflecting my passion for technology that adapts to user needs with fluidity.
+
 
 ## Languages and Tools
 
@@ -76,6 +76,8 @@ Check out my [portfolio website](https://your-portfolio-link.com) to learn more 
 </p>
 
 ## Passion Projects
+
+- **[IoT Device Control and Data Management API](https://github.com/abdel2000-dply/iot-control-system) 🔥** A robust API designed to manage IoT devices, reflecting my passion for technology that adapts to user needs with fluidity.
 
 - **[BookUnluck](https://github.com/abdel2000-dply/BookUnluck)**: A dynamic web application that allows users to discover, search, review, and explore books. This project reflects my adaptability in creating flexible solutions for digital media.
 
