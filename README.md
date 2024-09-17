@@ -20,7 +20,7 @@ Check out my [portfolio website](https://your-portfolio-link.com) to learn more 
 
 ## Current Projects
 
-
+- **[Space Shooter Game](https://github.com/abdel2000-dply/space-shooter-game-with-phaser) 🔥** classic space shooter game built using the Phaser framework. Players control a spaceship, dodging enemy projectiles and destroying enemy ships to earn points.
 
 ## Languages and Tools
 
