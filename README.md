@@ -73,6 +73,9 @@ Check out my [portfolio website](https://your-portfolio-link.com) to learn more 
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img src="https://bashlogo.com/img/symbol/svg/full_colored_dark.svg" alt="Bash" width="40" height="40"/>
   </a>
+  <a href="https://phaser.io/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.phaser.io/images/logo/logo-download-vector.png" alt="Phaser js" width="40" height="40"/>
+  </a>
 </p>
 
 ## Passion Projects
