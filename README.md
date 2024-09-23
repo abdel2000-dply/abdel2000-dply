@@ -4,7 +4,7 @@
 
 ## About Me
 
-I'm **Abdellah**, a junior Software engineer 👨‍💻 (ALX alumni - Cohort 16). Welcome to my GitHub profile! Feel free to explore my repositories and connect with me!
+I'm **Abdellah**, a junior Software engineer 👨‍💻 (ALX alumni - Cohort 16). Welcome to my GitHub profile!
 
 Check out my [portfolio website](https://abdellahabnoune.engineer/) to learn more about my work and projects!
 
