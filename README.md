@@ -8,7 +8,7 @@ I'm **Abdellah**, a junior Software engineer 👨‍💻 (ALX alumni - Cohort 16
 
 Check out my [portfolio website](https://abdellahabnoune.engineer/) to learn more about my work and projects!
 
-- currently learning React Native
+- Currently learning ML
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abdel2000-dply&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
